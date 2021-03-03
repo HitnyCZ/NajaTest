@@ -1,0 +1,10 @@
+/app/config/local.neon
+/.idea/*
+/www/assets/*
+/node_modules/*
+/vendor/*
+/www/img/*
+package-lock.json
+composer.lock
+www/web.config
+package-lock.json
